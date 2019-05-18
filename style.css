@@ -1,0 +1,15 @@
+body {
+  display: block;
+  margin-right: 200px;
+  margin-bottom: 200px;
+}
+
+#home{
+  background-color:rgb(179, 6, 6);
+}
+.specific{
+  background-color:orangered;
+}
+.thumbnail{
+  border: 1px solid rgb(179, 6, 6);
+}
